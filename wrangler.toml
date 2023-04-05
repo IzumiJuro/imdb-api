@@ -6,4 +6,5 @@ workers_dev = true
 route = ""
 zone_id = ""
 compatibility_date = "2022-05-27"
+[miniflare]
 host = "0.0.0.0"
